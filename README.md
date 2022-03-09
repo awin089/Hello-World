@@ -1,3 +1,3 @@
 # Hello-World
 My first repository in GitHub
-I love ☕ 🍕, and 💃
+I love ☕ 🍕, 🏕️: and 💃
